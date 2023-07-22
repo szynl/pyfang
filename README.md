@@ -1,6 +1,6 @@
 # Defanging
 
-A simple Python script that removes indicators of compromise from malicious URLs and IP addresses within a text file and writes them to a new file.
+A simple Python script that removes indicators of compromise from malicious URLs and IP addresses.
 
 # Installation
 
